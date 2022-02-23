@@ -1,0 +1,135 @@
+/***************************** Tag container*********************/
+a{
+  color:#393E46;
+  text-decoration: none;
+}
+a:hover{
+  color:Red;
+}
+hr{
+border:dotted #393E46 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  margin: 0;
+  font-family: 'Redressed', cursive;
+  font-size:5.265rem;
+  margin:50px auto 0px auto;
+  color: #EEEEEE;
+
+}
+h2{
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Playfair Display', serif;
+  color: #393E46;
+  text-align: left;
+}
+p{
+  font-family: 'Libre Baskerville', serif;
+  text-align: left;
+  line-height: 2;
+}
+
+/***************************** Class container*********************/
+
+.footer-link{
+  color:#EEEEEE;
+}
+.bottom-container{
+background-color: #393E46;
+color: #EEEEEE;
+padding: 50px 0 20px;
+text-align: center;
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.css-pic{
+  width:10%;
+  height:10%;
+  float: right;
+margin-right:80px;
+margin-top: 45px
+
+}
+.contact-me{
+  width:40%;
+  margin:40px auto 60px;
+}
+.first-paragaph{
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  line-height: 2;
+}
+.html-pic{
+  width: 15%;
+  height:15%;
+  float: left;
+    margin:32px auto 50px auto;
+
+}
+.h3-better{
+  text-align: center;
+}
+.middle-container{
+margin:100px 0px;
+}
+.top-container{
+background-color:#222831;
+color: #EEEEEE;
+padding-top: 100px;
+position:relative;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+
+}
+.paragraph-css{
+  margin-left: 110px;
+}
+.p-read{
+  text-align: center;
+}
+.btn {
+  background: #717578;
+  background-image: -webkit-linear-gradient(top, #717578, #c0c3c4);
+  background-image: -moz-linear-gradient(top, #717578, #c0c3c4);
+  background-image: -ms-linear-gradient(top, #717578, #c0c3c4);
+  background-image: -o-linear-gradient(top, #717578, #c0c3c4);
+  background-image: linear-gradient(to bottom, #717578, #c0c3c4);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4a4a4a;
+  text-decoration: none;
+}
+.last{
+  text-align: center;
+}
